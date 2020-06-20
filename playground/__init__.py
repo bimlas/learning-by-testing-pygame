@@ -8,7 +8,6 @@ def loop(update, event_handler):
     should_print_fps = True
 
     pygame.init()
-    pygame.mixer.init()
     screen = pygame.display.set_mode((screen_width, screen_height))
     clock = pygame.time.Clock()
 
