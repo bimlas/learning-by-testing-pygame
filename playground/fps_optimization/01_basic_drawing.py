@@ -1,3 +1,11 @@
+# Minimal sprite test
+#
+# * Clear the whole screen
+# * Blit the sprite to screen
+# * Flip the display
+#
+# 450 FPS
+
 import playground
 import pygame
 

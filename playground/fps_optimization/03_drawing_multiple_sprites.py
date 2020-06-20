@@ -1,3 +1,11 @@
+# Drawing multiple sprites
+#
+# Draw both sprite with the same method (update only changed parts of the
+# screen).
+#
+# 800 FPS
+
+
 import playground
 import pygame
 

@@ -1,3 +1,14 @@
+# Redrawing only changed parts of the screen
+#
+# * Draw the sprite
+# * Save its position
+# * Change the sprite position by mousemotion event
+# * Fill the previous position with background color
+# * Start again
+#
+# 3333 FPS
+
+
 import playground
 import pygame
 

@@ -1,3 +1,16 @@
+# Redraw only collided areas
+#
+# * Draw the sprite
+# * Save its position
+# * Change the sprite position by mousemotion event
+# * Fill the previous position with background color
+# * Find the sprites that collide with the previous position
+# * Redraw the common area of the previous position and the collision
+#   sprite from the image of the collision sprite
+# * Start again
+#
+# 3333 FPS
+
 import playground
 import pygame
 
